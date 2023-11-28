@@ -4,18 +4,27 @@ add, edit, delete tasks, and mark tasks as completed and with various other feat
 
 Technologies used: reactjs,css,bootstrap
 special features: 
+
 ○ Allows users to mark tasks as completed by clicking on a checkbox.
+
 ○ Provided a visual indication of completed tasks (e.g., strike-through)
+
 ○ Included a button to delete tasks
+
 ○ Included a modal or a form to add new tasks.
+
 ○ Fields in the form:
 ■ Task name (text input).
 ■ Task description (text area).
 ■ Priority level (low, medium, high - use a dropdown).
+
 ○ Validation: Ensured that the task name is required.
-○ Allow users to edit the task name, description, and priority.
+
+○ Allow users to edit the task name, description, and priority
+
 ○ Provided an edit button for each task that opens the edit task 
 modal/form
+
 
 Steps to run:
 
