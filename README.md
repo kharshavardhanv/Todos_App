@@ -38,4 +38,4 @@ Steps to run:
 
 -run the command "npm run dev"
 
-follow the link
+-follow the link
