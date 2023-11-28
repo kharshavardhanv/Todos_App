@@ -18,8 +18,13 @@ special features:
 modal/form
 
 Steps to run:
+
 -download zip file
+
 -extract files
+
 -In vscode set the terminal path to project location
+
 -install node modules using "npm install"
+
 -run the command "npm run dev"
