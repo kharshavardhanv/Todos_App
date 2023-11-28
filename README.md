@@ -37,3 +37,5 @@ Steps to run:
 -install node modules using "npm install"
 
 -run the command "npm run dev"
+
+-follow the link
